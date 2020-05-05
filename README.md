@@ -1,2 +1,2 @@
-# ditchhiking-vanilla-js
+# Ditchhiking-vanilla-js
 ### ditch hitchhiking
