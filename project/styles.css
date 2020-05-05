@@ -9,14 +9,11 @@ h1 {
     height: 600px;
     width: 80%;
     border: 2px solid white;
-}
-h1, map {
-    display: none;
-}
-#authorize-button, #signout-button {
-    background-color: red;
-    border: 1px solid white;
+    /* display: none; */
 }
 #ask-for-login {
-    color: whitesmoke;
+    color: #f5f5f5;
 }
+/* #authorize-button, #signout-button {
+    display: none;
+} */
