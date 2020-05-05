@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ditch Hitchhiking and start Ditchhiking</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <p id="ask-for-login">Login with Google</p>
+    <button id="authorize-button">Log In</button>
+    <button id="signout-button">Log Out</button><br><hr><br>
+    <h1>Simple Map</h1>
+    <div id="map"></div>
+
+    <script async defer src="main.js"></script>
+            <!--Load the API from the specified URL
+            * The async attribute allows the browser to render the page while the API loads
+            * The key parameter will contain your own API key (which is not needed for this tutorial)
+            * The callback parameter executes the initMap() function
+            -->
+            <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAb67kQl6Q96cgLm9Ydhg99G0kz0xEzQAE&callback=initMap">
+            </script>
+</body>
+</html>

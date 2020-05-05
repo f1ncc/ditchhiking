@@ -1,0 +1,5 @@
+1. Show proper fare
+2. Show different types of cabs
+3. Show ride estimate
+4. Show booking confirmation
+5. Use google maps integration

@@ -1,0 +1,22 @@
+body {
+    background-color: #1c2431;
+}
+h1 {
+    color: #ffffff;
+    text-align: center;
+}
+#map {
+    height: 600px;
+    width: 80%;
+    border: 2px solid white;
+}
+h1, map {
+    display: none;
+}
+#authorize-button, #signout-button {
+    background-color: red;
+    border: 1px solid white;
+}
+#ask-for-login {
+    color: whitesmoke;
+}
