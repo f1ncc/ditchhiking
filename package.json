@@ -1,5 +1,5 @@
 {
-  "name": "vanilla-js",
+  "name": "ditchhiking",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sathya717/ditchhiking-vanilla-js.git"
+    "url": "git+https://github.com/sathya717/ditchhiking.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sathya717/ditchhiking-vanilla-js/issues"
+    "url": "https://github.com/sathya717/ditchhiking/issues"
   },
-  "homepage": "https://github.com/sathya717/ditchhiking-vanilla-js#readme",
+  "homepage": "https://github.com/sathya717/ditchhiking#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1"
